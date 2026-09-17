@@ -1,25 +1,5 @@
 # Timeline
 
-## Branches
-
-| id | label | rise | color |
-|---|---|---|---|
-| dissemination | Dissemination | 92 | #9B9B9B |
-| templatization | Templatization | 55 | #9B9B9B |
-
-## Types
-
-| type | color |
-|---|---|
-| tech | #9B9B9B |
-| culture | #DA8DBC |
-
-## Phases
-
-| label | date | style |
-|---|---|---|
-| Echoing | 2013 | dashed |
-
 ## Items
 
 | date | label | branch | type | link |
@@ -89,3 +69,24 @@
 | 1994.97 | Netscape Navigator | dissemination | tech | https://en.wikipedia.org/wiki/Netscape_Navigator |
 | 1996.5 | Space Jam Website | dissemination | culture | https://www.spacejam.com/1996/ |
 | 2016.5 | TikTok | templatization | culture | https://www.tiktok.com/ |
+
+
+## Branches
+
+| id | label | rise | color |
+|---|---|---|---|
+| dissemination | Dissemination | 92 | #9B9B9B |
+| templatization | Templatization | 55 | #9B9B9B |
+
+## Types
+
+| type | color |
+|---|---|
+| tech | #9B9B9B |
+| culture | #DA8DBC |
+
+## Phases
+
+| label | date | style |
+|---|---|---|
+| Echoing | 2013 | dashed |
