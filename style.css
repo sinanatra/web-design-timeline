@@ -46,13 +46,19 @@ h1 {
 #chart-wrap {
   width: 100%;
   max-width: 1400px;
+  overflow-x: auto;
   font-family: "ABC Areal Mono", Arial, sans-serif;
 }
 
 svg {
-  width: 100%;
-  height: auto;
   display: block;
+}
+
+@media (min-width: 769px) {
+  svg {
+    width: 100%;
+    height: auto;
+  }
 }
 
 a {

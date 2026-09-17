@@ -181,6 +181,8 @@ async function render() {
   const svg = wrap
     .append("svg")
     .attr("viewBox", `0 0 ${VIEW_W} ${VIEW_H}`)
+    .attr("width", VIEW_W)
+    .attr("height", VIEW_H)
     .attr("xmlns", "http://www.w3.org/2000/svg");
 
   const axisG = svg.append("g");
