@@ -198,7 +198,7 @@ async function render() {
     .join("text")
     .attr("x", (d) => xScale(d))
     .attr("y", AXIS_Y + 18)
-    .attr("font-size", 12.91)
+    .attr("font-size", 14)
     .text((d) => d);
 
   const lineG = svg.append("g");
@@ -234,7 +234,7 @@ async function render() {
     .attr("x", lastX + 10)
     .attr("y", lastY + 1.5)
     .attr("fill", "#0000FF")
-    .attr("font-size", 12.91)
+    .attr("font-size", 14.91)
     .text("Web Design");
 
   const phaseG = svg.append("g");
@@ -256,7 +256,7 @@ async function render() {
       .append("text")
       .attr("x", x + 8)
       .attr("y", 733.6)
-      .attr("font-size", 12)
+      .attr("font-size", 14)
       .text(p.label);
   }
 
@@ -280,7 +280,7 @@ async function render() {
       .attr("x", dividerX + 8)
       .attr("y", 733.6)
       .attr("fill", branch.color)
-      .attr("font-size", 12)
+      .attr("font-size", 14)
       .text(branch.label);
 
     for (const it of laidOut) {
@@ -296,7 +296,7 @@ async function render() {
         .attr("x", it.x)
         .attr("y", it.y)
         .attr("fill", it.color)
-        .attr("font-size", 12)
+        .attr("font-size", 14)
         .text(it.label);
     }
   }
