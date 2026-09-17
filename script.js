@@ -232,7 +232,7 @@ async function render() {
   lineG
     .append("text")
     .attr("x", lastX + 10)
-    .attr("y", lastY + 1.5)
+    .attr("y", lastY - 6)
     .attr("fill", "#0000FF")
     .attr("font-size", 14.91)
     .text("Web Design");
