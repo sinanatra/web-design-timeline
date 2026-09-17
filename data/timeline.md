@@ -24,8 +24,8 @@
 
 | date | label | branch | type | link |
 |---|---|---|---|---|
-| 1990.99 | The Thing BBS | dissemination | culture | https://thingbbs.rhizome.org/ |
 | 1991 | First Web Page | dissemination | culture | https://info.cern.ch/hypertext/WWW/TheProject.html |
+| 1991 | The Thing BBS | dissemination | culture | https://thingbbs.rhizome.org/ |
 | 1993 | Mosaic | dissemination | tech | https://en.wikipedia.org/wiki/Mosaic_(web_browser) |
 | 1993.99 | adaweb | dissemination | culture | http://adaweb.walkerart.org/ |
 | 1994.97 | jodi.org | dissemination | culture | http://wwwwwwwww.jodi.org/ |
@@ -85,3 +85,6 @@
 | 2021.01 | DALL-E | templatization | tech | https://en.wikipedia.org/wiki/DALL-E |
 | 2022.01 | ChatGPT | templatization | tech | https://chatgpt.com/ |
 | 2025.01 | Claude Code | templatization | tech | https://claude.ai/ |
+| 1994.97 | Netscape Navigator | dissemination | tech | https://en.wikipedia.org/wiki/Netscape_Navigator |
+| 1996.5 | Space Jam Website | dissemination | culture | https://www.spacejam.com/1996/ |
+| 2016.5 | TikTok | templatization | culture | https://www.tiktok.com/ |
