@@ -76,6 +76,7 @@
 | 2009.98 | Flat Design | templatization | tech | https://en.wikipedia.org/wiki/Flat_design |
 | 2011 | BootStrap | templatization | tech | https://getbootstrap.com/ |
 | 2012 | Adobe Muse | templatization | tech | https://en.wikipedia.org/wiki/Adobe_Muse |
+| 2013 | Summer | dissemination | culture | http://art.teleportacia.org/olia/summer/ |
 | 2014.01 | Material Design | templatization | tech | https://m3.material.io/ |
 | 2014.01 | HTML5 | templatization | tech | https://html.spec.whatwg.org/ |
 | 2016.01 | Figma | templatization | culture | https://www.figma.com/ |
